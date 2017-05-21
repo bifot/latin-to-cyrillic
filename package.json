@@ -1,0 +1,30 @@
+{
+  "name": "latin-to-cyrillic",
+  "version": "1.0.0",
+  "description": "Super Simple module for translating latin to cyrillic.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/simple.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bifot/latin-to-cyrillic.git"
+  },
+  "keywords": [
+    "translit",
+    "russian",
+    "english",
+    "latin",
+    "cyrillic",
+    "transliter"
+  ],
+  "author": "Mikhail Semin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bifot/latin-to-cyrillic/issues"
+  },
+  "homepage": "https://github.com/bifot/latin-to-cyrillic#readme"
+}
