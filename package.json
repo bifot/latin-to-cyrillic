@@ -1,6 +1,6 @@
 {
   "name": "latin-to-cyrillic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Super Simple module for translating latin to cyrillic.",
   "main": "index.js",
   "directories": {
